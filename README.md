@@ -6,13 +6,10 @@ Code files and dataset to accompany e-textile research project at the Dyson Scho
 ## Code
 | Folder name | Description of contents |
 |-------------|-------------------------|
-| Data Processing |  |
-|    :file_folder: MotionCaptureSystem|  |
-|    :file_folder: Resistance|  |
-|    :file_folder: XiaoBoard|  |
-| Data Collection |  |
-| Regression  |   |
-| Classification | |
+| Data Processing | Python scripts for aligning data recordings |
+| Data Collection | Arduino sketches that record the IMU and ADC values with and without the use of a button to sync the data recording |
+| Regression  | Python script to calculate the regression analysis  |
+| Classification | Python scripts for training and testing machine learning models used in the classification analysis |
 
 ## Data
 
