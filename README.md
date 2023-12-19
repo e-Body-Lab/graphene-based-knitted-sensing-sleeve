@@ -12,6 +12,9 @@ Code files and dataset to accompany e-textile research project at the Dyson Scho
 | Classification | Python scripts for training and testing machine learning models used in the classification analysis |
 
 ## Data
+| Folder name | Description of contents |
+|-------------|-------------------------|
+| Regression |CSV files of data used in regression analysis |
 
 
 ## Evaluation Results
