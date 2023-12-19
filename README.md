@@ -15,6 +15,7 @@ Code files and dataset to accompany e-textile research project at the Dyson Scho
 | Folder name | Description of contents |
 |-------------|-------------------------|
 | Regression |CSV files of data used in regression analysis |
+| Classification | CSV files of data used in gesture classification |
 
 
 ## Evaluation Results
